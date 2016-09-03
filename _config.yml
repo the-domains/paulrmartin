@@ -1,0 +1,29 @@
+typography_spectrum: 0.18374100280925632
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5245895374100655
+  lightness: 0.7364509026519954
+  saturation: 0.30067481100559235
+  rhythmicContrast: 0.4293608036823571
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7408843631856143
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: PaulRMartin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Test
+purpose: []
